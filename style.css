@@ -20,13 +20,28 @@ div {
 div div {
     width: 1%;
     height: 2%;
-    outline: 1px solid #fff;
+    outline: 1px solid white;
     float: left;
-    background: black;
+    background: white;
 }
 
+.big {
+  width: 4%;
+  height: 8%;
+  outline: 1px solid #fff;
+  float: left;
+}
+
+/*.bigger {
+width: 4%;
+height: 8%;
+outline: 1px solid #fff;
+float: left;
+
+}*/
+
 .white {
-  background: #fff;
+  background: black;
 }
 
 .red {
